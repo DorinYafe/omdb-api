@@ -1,4 +1,4 @@
-const FILTER_OPTIONS = Object.freeze(['t', 'y', 'plot', ])
+const FILTER_OPTIONS = Object.freeze(['s', 'y', 'plot', 'page',])
 
 module.exports = Object.freeze({
     PORT: 4899,
