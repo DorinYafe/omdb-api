@@ -22,5 +22,4 @@ router.get('/search', searchValidation, async (req, res) => {
         .catch(e => R.send(e));
 });
 
-
 module.exports = router
